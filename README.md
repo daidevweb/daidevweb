@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="svg/daidevweb.svg" width="1200" alt="daidevweb" />
+  <img src="/daidevweb.svg" width="1200" alt="daidevweb" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
